@@ -1,4 +1,4 @@
-# portfolio-project
+# Portfolio-Project
 
 Link to website - https://divesh771-portfolio.netlify.app/
 
